@@ -1,0 +1,12 @@
+{
+  "name": "designer",
+  "description": "Opinionated design taste skill plus two subagents that apply it. The designer skill defines aesthetic principles and anti-patterns; design-reviewer critiques existing UI from screenshots; design-builder implements new UI from spec. Stack-agnostic.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mikitahimpel",
+    "url": "https://github.com/mikitahimpel"
+  },
+  "homepage": "https://github.com/mikitahimpel/ai-toolkit",
+  "repository": "https://github.com/mikitahimpel/ai-toolkit",
+  "license": "MIT"
+}

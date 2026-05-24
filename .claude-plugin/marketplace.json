@@ -1,0 +1,15 @@
+{
+  "name": "ai-toolkit",
+  "owner": {
+    "name": "mikitahimpel",
+    "url": "https://github.com/mikitahimpel"
+  },
+  "description": "Personal toolkit of skills and agents for Claude Code, Codex, and OpenCode.",
+  "plugins": [
+    {
+      "name": "designer",
+      "source": "./plugins/designer",
+      "description": "Designer taste skill plus two subagents that apply it: design-reviewer (critiques existing UI) and design-builder (implements new UI). Stack-agnostic; works across Claude Code, Codex, and OpenCode."
+    }
+  ]
+}
