@@ -1,7 +1,7 @@
 {
   "name": "comment-discipline",
   "description": "Rules for writing source-code comments that serve future readers, not the conversation that produced the code. Prevents the common AI-coding failure mode where agents add comments documenting chat history instead of documenting code.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "mikitahimpel",
     "url": "https://github.com/mikitahimpel"
