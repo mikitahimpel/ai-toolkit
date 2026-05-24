@@ -1,0 +1,10 @@
+{
+  "name": "comment-discipline",
+  "version": "0.1.0",
+  "description": "Rules for writing source-code comments that serve future readers, not the conversation that produced the code.",
+  "author": {
+    "name": "mikitahimpel"
+  },
+  "homepage": "https://github.com/mikitahimpel/ai-toolkit",
+  "skills": "../skills/"
+}

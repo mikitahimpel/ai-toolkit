@@ -10,6 +10,11 @@
       "name": "designer",
       "source": "./plugins/designer",
       "description": "Designer taste skill plus two subagents that apply it: design-reviewer (critiques existing UI) and design-builder (implements new UI). Stack-agnostic; works across Claude Code, Codex, and OpenCode."
+    },
+    {
+      "name": "comment-discipline",
+      "source": "./plugins/comment-discipline",
+      "description": "Rules for writing source-code comments that serve future readers, not the conversation that produced the code. Prevents the common AI-coding failure mode where agents leak chat context into code comments."
     }
   ]
 }
