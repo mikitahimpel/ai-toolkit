@@ -1,6 +1,6 @@
 {
   "name": "designer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Opinionated design taste skill defining aesthetic principles and anti-patterns. Stack-agnostic; apply when UI work needs an opinionated voice instead of generic defaults.",
   "author": {
     "name": "mikitahimpel"
